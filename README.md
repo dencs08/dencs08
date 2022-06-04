@@ -9,7 +9,7 @@
       📫 You can reach me at <a href = "mailto: daniel.buzon08@gmail.com">daniel.buzon08@gmail.com</a>
   </li>
     <li>
-      📄 Here is my <a href="buzon.cv">resume</a>
+      📄 Here is my <a href="https://www.danielbuzon.pl/">resume</a>
   </li>
 <ul>
   </div>
