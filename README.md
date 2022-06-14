@@ -3,7 +3,7 @@
  <div>
   <ul>
   <li>
-    👨‍💻 All of my projects are available at <a href="https://www.bisonstudio.pl/">bisonstudio.pl</a>
+    👨‍💻 All of my projects are available at <a href="https://www.buzon.studio/">buzon.studio</a>
   </li>
     <li>
       📫 You can reach me at <a href = "mailto: daniel.buzon08@gmail.com">daniel.buzon08@gmail.com</a>
